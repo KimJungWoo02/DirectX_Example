@@ -1,0 +1,2 @@
+C:\Users\kim27\Desktop\DirectXSamples\EmptyProject\Debug\EmptyProject.exe
+C:\Users\kim27\Desktop\DirectXSamples\EmptyProject\Debug\EmptyProject.pdb
